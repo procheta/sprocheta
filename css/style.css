@@ -2864,7 +2864,7 @@ h6 {
   .projects_item .projects_text {
     position: absolute;
     left: 0px;
-    bottom: 30px;
+    top: 30px;
     padding-left: 30px;
     padding-right: 30px; }
     .projects_item .projects_text h4 {
